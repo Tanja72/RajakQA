@@ -1,0 +1,6 @@
+/Users/Tanja/Desktop/C#/Kalkulator/Kalkulator/bin/Debug/Kalkulator.exe
+/Users/Tanja/Desktop/C#/Kalkulator/Kalkulator/bin/Debug/Kalkulator.pdb
+/Users/Tanja/Desktop/C#/Kalkulator/Kalkulator/obj/Debug/Kalkulator.csprojAssemblyReference.cache
+/Users/Tanja/Desktop/C#/Kalkulator/Kalkulator/obj/Debug/Kalkulator.csproj.CoreCompileInputs.cache
+/Users/Tanja/Desktop/C#/Kalkulator/Kalkulator/obj/Debug/Kalkulator.exe
+/Users/Tanja/Desktop/C#/Kalkulator/Kalkulator/obj/Debug/Kalkulator.pdb
